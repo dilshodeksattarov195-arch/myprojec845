@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperepdate",
+        "uuid": 7815405,
+        "checksum": "t63vxa"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
